@@ -1,0 +1,13 @@
+#color{
+    width: 500px;
+    height: 500px;
+    background: purple;
+    margin: 5px;
+    transition: 2s;
+    align-content: center;
+}
+#out{
+    width: 300px;
+    height: 150px;
+    margin: 5px;    
+}
